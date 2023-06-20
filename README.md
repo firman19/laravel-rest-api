@@ -17,7 +17,7 @@ This app contais following features:
 Clone the project
 
 ```bash
-    git clone https://gitlab.com/firmanilham19/laravel-rest-api.git
+    git clone https://github.com/firman19/laravel-rest-api.git
 ```
 
 Go to the project directory
@@ -74,7 +74,7 @@ Start the server
 To run the frontend, go to this repository
 
 ```bash
-    https://gitlab.com/firmanilham19/vuejs-tailwind.git
+    https://github.com/firman19/vuejs-tailwind.git
 ```
 
 ## API Documentation
